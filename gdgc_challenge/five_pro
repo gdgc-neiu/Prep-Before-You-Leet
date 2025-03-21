@@ -1,0 +1,15 @@
+Welcome! Thank you for joining us today!
+
+These are the 5 leetcode problems to solve using any programming language:
+
+1- Two Sum: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+2- Reverse Integer: Given a signed 32-bit integer x, return x with its digits reversed.
+
+3- Palindrome Number: Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+4- Add Two Numbers: You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+5- Longest Substring Without Repeating Characters: Given a string s, find the length of the longest substring without repeating characters
+
+Happy Coding!!
